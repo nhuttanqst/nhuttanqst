@@ -148,14 +148,14 @@
 ### 🧿 View Counter
 <div align="center">
   <img src="https://count.getloli.com/get/@nhuttanqst?theme=3d-num" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/nhuttanqst/nhuttanqst/refs/heads/main/assets/images/quote.png" width="900" alt="Quote" />
 </div>
 
 ---
 
 <div align="center">
   <p>Made with ❤️ in <b>Vietnam</b></p>
-  <img src="https://raw.githubusercontent.com/nhuttanqst/polymer-flags/master/flags/vn.svg" width="40" alt="Vietnam Flag" />
-  <br/><br />
+  <img src="https://raw.githubusercontent.com/nhuttanqst/nhuttanqst/refs/heads/main/assets/images/vietnam.png" width="30" />
   <p align="center">
     <b>© 2026 Nhựt Tân</b> — <i>"Turning complex logic into elegant solutions, one commit at a time."</i>
   </p>
