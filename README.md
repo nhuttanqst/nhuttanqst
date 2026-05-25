@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2800&pause=1800&color=FF00FF&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+Nhựt+Tân!;✨+Fullstack+Developer;🎓+Software+Engineering+-+IUH;🇻🇳+Ho+Chi+Minh+City,+Vietnam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2800&pause=1800&color=FF00FF&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+Hiếu+Nhân!;✨+Fullstack+Developer;🎓+Software+Engineering+-+IUH;🇻🇳+Ho+Chi+Minh+City,+Vietnam" alt="Typing SVG" />
   </a>
 
   <p>A tech enthusiast and <b>Fullstack Developer</b> from Vietnam 🇻🇳 — building modern web applications with React, Next.js, and Node.js/Java, focused on seamless performance.</p>
